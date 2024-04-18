@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 🐈
 
-<!--
-**Aburaya5123/Aburaya5123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KOIZUMI SOUICHIROU 
 
-Here are some ideas to get you started:
+## My Favorite Programming Languages 
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&logoColor=white"> <img src="https://img.shields.io/badge/-CSharp-512BD4.svg?logo=csharp&style=flat&logoColor=white">
+ <img src="https://img.shields.io/badge/-Kotlin-7F52FF.svg?logo=kotlin&style=flat&logoColor=white">
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aburaya5123&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Aburaya5123&theme=onedark&show_icons=ture" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aburaya5123&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
